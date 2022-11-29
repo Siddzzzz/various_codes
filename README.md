@@ -1,2 +1,2 @@
-# clg_hw
-Codes for diff. programs.
+# College Homework Codes
+Codes for different programs.
